@@ -1,0 +1,8 @@
+hft-market-making-2026/
+cat >> .gitignore << 'EOF'
+
+# Ignorer les gros fichiers
+data/*.csv
+output/*.csv
+hft_backtest
+*.DS_Store
