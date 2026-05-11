@@ -1,9 +1,8 @@
-```markdown
 # HFT Backtester — Avellaneda-Stoikov Market Making Strategy
 
 ## Architecture
 
-```
+```text
 hft/
 ├── main.cpp                       ← Entry point
 ├── Makefile                       ← Build for macOS/clang++
